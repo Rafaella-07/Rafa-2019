@@ -3,3 +3,5 @@ Karate
 Ballet
 Gymnasia
 Marinera
+Videojuegos
+Tenis
